@@ -1,9 +1,6 @@
+Using this pre-constructed API to test GitHub Actions and Dependabot features
+
 # AllBooks
-
-Boas vindas API do allbooks!!!!!
-
-O AllBooks é uma loja virtual que vende livros da Casa do Código. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
 # JSONServer + JWT Auth
 
@@ -29,9 +26,9 @@ Com os seguintes dados:
 ```
 {
     "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
+    "email": "vinicios@email.com.br",
     "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
+    "endereco": "Rua Vergueiro, 2000",
     "complemento": "Vila Mariana",
     "cep": "04101-300"
 }
@@ -52,7 +49,7 @@ Com os seguintes dados:
 
 ```
 {
-  "email": "vinicios@alura.com.br",
+  "email": "vinicios@email.com.br",
   "senha":"123456"
 }
 ```
